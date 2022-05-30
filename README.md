@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abubakershykh
 - 👀 I’m interested in UI/UX, Qaulity Assurance 
 - 🌱 I’m currently learning Front-end Development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Freelance Projects
 - 📫 Reach me through: abubkershykh22@gmail.com
 
 <!---
